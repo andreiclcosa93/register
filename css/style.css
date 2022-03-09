@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0 auto;
+    width: 100%;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+
+#banner {
+    background-color: #565e64;
+    height: 120px;
+    margin-bottom: 50px;
+    
+}
+
+#meniu ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+#meniu li {
+    padding: 5px;
+    display: initial;
+}
+
+#meniu a {
+    text-decoration: none;
+}
+
+.gradient-custom {
+    margin-top: -250px;
+}
+
